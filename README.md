@@ -1,2 +1,5 @@
 # Compsci-222
-Projects from Compsci 222 course at UWW
+
+Project final for Compsci 222 to incorperate an external file and use object oriented programming.
+
+I made a blackjack program.
