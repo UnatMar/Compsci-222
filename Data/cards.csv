@@ -1,0 +1,53 @@
+Card Face,Card Color,Card Value
+Ace Hearts,Red,1
+Ace Spades,Black,1
+Ace Diamonds,Red,1
+Ace Clubs,Black,1
+2 Hearts,Red,2
+2 Spades,Black,2
+2 Diamonds,Red,2
+2 Clubs,Black,2
+3 Hearts,Red,3
+3 Spades,Black,3
+3 Diamonds,Red,3
+3 Clubs,Black,3
+4 Hearts,Red,4
+4 Spades,Black,4
+4 Diamonds,Red,4
+4 Clubs,Black,4
+5 Hearts,Red,5
+5 Spades ,Black,5
+5 Diamonds,Red,5
+5 Clubs,Black,5
+6 Hearts,Red,6
+6 Spades ,Black,6
+6 Diamonds,Red,6
+6 Clubs,Black,6
+7 Hearts,Red,7
+7 Spades ,Black,7
+7 Diamonds,Red,7
+7 Clubs,Black,7
+8 Hearts,Red,8
+8 Spades ,Black,8
+8 Diamonds,Red,8
+8 Clubs,Black,8
+9 Hearts,Red,9
+9 Spades ,Black,9
+9 Diamonds,Red,9
+9 Clubs,Black,9
+10 Hearts,Red,10
+10 Spades ,Black,10
+10 Diamonds,Red,10
+10 Clubs,Black,10
+Jack Hearts,Red,10
+Jack Spades ,Black,10
+Jack Diamonds,Red,10
+Jack Clubs,Black,10
+Queen Hearts,Red,10
+Queen Spades ,Black,10
+Queen Diamonds,Red,10
+Queen Clubs,Black,10
+King Hearts,Red,10
+King Spades ,Black,10
+King Diamonds,Red,10
+King Clubs,Black,10
